@@ -5,3 +5,6 @@
 
 |![](https://raw.githubusercontent.com/suzshiro1024/suzshiro1024/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)|
 |---|
+
+|![](https://github-profile-trophy.vercel.app/?username=suzshiro1024)|
+|---|
