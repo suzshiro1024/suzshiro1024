@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/suzshiro1024/suzshiro1024/main/profile-summary-card-output/shades_of_purple/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/suzshiro1024/suzshiro1024/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
+```
+
+    
